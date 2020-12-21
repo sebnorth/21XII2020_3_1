@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie1", "Zadanie1\Zadanie1.csproj", "{99F3E01C-29AD-4B33-8820-3360F517C037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Choinka", "Choinka\Choinka.csproj", "{2623F578-7DE4-4B2F-8FA8-8AE44DE3A0CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F3E01C-29AD-4B33-8820-3360F517C037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F3E01C-29AD-4B33-8820-3360F517C037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F3E01C-29AD-4B33-8820-3360F517C037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F3E01C-29AD-4B33-8820-3360F517C037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2623F578-7DE4-4B2F-8FA8-8AE44DE3A0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2623F578-7DE4-4B2F-8FA8-8AE44DE3A0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2623F578-7DE4-4B2F-8FA8-8AE44DE3A0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2623F578-7DE4-4B2F-8FA8-8AE44DE3A0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BD0D393-77E2-4848-A443-FC6FA319F476}
+	EndGlobalSection
+EndGlobal
